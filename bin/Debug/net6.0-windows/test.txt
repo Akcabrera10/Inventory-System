@@ -1,0 +1,6 @@
+Apples,vegetable,1,23
+Wonderbread,grain,7,39
+Cucumbers,vegetable,3,53
+Chicken,meat,25,49
+Chocolate,dairy,6,42
+Oranges,vegetable,3,43

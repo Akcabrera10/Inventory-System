@@ -1,0 +1,4 @@
+Apples,vegetable,3,87
+Porkloin,meat,15,90
+Wonderbread,grain,5,90
+Eggs,dairy,7,90

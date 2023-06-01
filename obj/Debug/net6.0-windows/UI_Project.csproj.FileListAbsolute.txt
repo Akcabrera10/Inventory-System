@@ -1,0 +1,114 @@
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\bin\Debug\net6.0-windows\UI_Project.exe
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\bin\Debug\net6.0-windows\UI_Project.deps.json
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\bin\Debug\net6.0-windows\UI_Project.runtimeconfig.json
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\bin\Debug\net6.0-windows\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\bin\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.GenerateResource.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\refint\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.genruntimeconfig.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\ref\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.CustomerForm.resources
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.LoginForm.resources
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project\obj\Debug\net6.0-windows\UI_Project.ManagerForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.exe
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.deps.json
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.runtimeconfig.json
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.CustomerForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.LoginForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.ManagerForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\refint\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UID\FINAL-FINAL-FINAL\UI_Project\UI_Project\obj\Debug\net6.0-windows\ref\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.exe
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.deps.json
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.runtimeconfig.json
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.CustomerForm.resources
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.LoginForm.resources
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.ManagerForm.resources
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.GenerateResource.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\refint\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.genruntimeconfig.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\ref\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.exe
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.deps.json
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.runtimeconfig.json
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.CustomerForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.LoginForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.ManagerForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\refint\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\School\UIDEBUG\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\ref\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.exe
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.deps.json
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.runtimeconfig.json
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.CustomerForm.resources
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.LoginForm.resources
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.ManagerForm.resources
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.GenerateResource.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\refint\UI_Project.dll
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.genruntimeconfig.cache
+C:\Users\jeffr\OneDrive\Documents\Computer Engineering Technology\Semester 5\User Interface Design\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\ref\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.exe
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.deps.json
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.runtimeconfig.json
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\bin\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.CustomerForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.LoginForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.ManagerForm.resources
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\refint\UI_Project.dll
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.pdb
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\UI_Project.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Conestoga College\Desktop\UI LAST\UI_Project_FINAL\UI_Project_FINAL\UI_Proj_Arvyn\UI_Proj_Arvyn\UI_Project\UI_Project\obj\Debug\net6.0-windows\ref\UI_Project.dll
